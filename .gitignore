@@ -1,0 +1,10 @@
+# Arquivos Excel de dados
+*.xlsx
+*.xls
+
+# Arquivos temporários do Excel
+~$*
+
+# Python
+__pycache__/
+*.pyc
